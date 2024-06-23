@@ -1,0 +1,78 @@
+.card-form{
+    padding: 50px 100px;
+    /* margin-left: ; */
+    /* margin-left: 100px; */
+}
+.sub-form{
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.447);
+    box-shadow:  4px 4px 2px rgb(101, 88, 88);
+    padding: 10px 20px;
+    margin-right: 100px;
+    margin-left: 450px;
+    margin-top: 0px;
+}
+.total-forms{
+    background-image: url('https://t4.ftcdn.net/jpg/06/24/44/33/360_F_624443353_ChprFKHY7uf0B8DaOp7z76fCKfeXXRkF.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.form-nm{
+    margin-left: 90px;
+    margin-bottom: 40px;
+}
+.box{
+    padding: 7px 25px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 50px;
+    border: 1px solid black;
+    margin-bottom: 25px;
+}
+.p-tag{
+    color: rgb(79, 79, 206);
+    margin-left: 60px;
+    margin-top: -10px;
+}
+.p-tag:hover{
+    color: orange;
+}
+.bttn-form{
+    background-color: palevioletred;
+    color: white;
+    padding: 7px 85px;
+    border-radius: 20px;
+    margin-left: 50px;
+    border: 1px solid ;
+    margin-top: 20px;
+}
+.bttn-form:hover{
+    background-color: burlywood;
+}
+.msg{
+    color: red;
+    margin-left: 60px;
+}
+.p-passtag{
+    border: 1px solid rgb(86, 85, 86);
+    border-radius: 20px;
+    /* margin-left: 50px; */
+    /* margin-right: 150px; */
+    margin-top: 10px;
+    text-align: center;
+}
+#google{
+    font-size: 24px;
+    size: 70px;
+}
+.gg-tag{
+    margin-top: 7px;
+}
+.g-tag{
+    color: rgb(61, 56, 56);
+    padding-top: 10px;
+}
+.g-tag:hover{
+    color: green;
+}
