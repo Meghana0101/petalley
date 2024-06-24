@@ -32,9 +32,9 @@ const Home = () => {
 
               {/* <p className='p-tag'>Forgot Password ?</p> */}
             </div>
-            {/* <div className='btn-form-btn'>
-              <button className='bttn-form' type="submit">Login</button>
-            </div> */}
+            { <div className='btn-form-btn'>
+              <button className='bttn-form' type="submit">Submit</button>
+            </div> }
           </form>
 
         

@@ -51,7 +51,7 @@ function Header() {
                     <Nav className="me-auto mx-2" id='nav-nav'>
                         <Nav.Link as={Link} to='/' className='mx-2' href="#">Home</Nav.Link>
                         <Nav.Link as={Link} to='/Shopping' className='mx-2' href="#">Shopping</Nav.Link>
-                        <Nav.Link as={Link} to='/Services' className='mx-2' href="#">Service</Nav.Link>
+                        <Nav.Link as={Link} to='/Services' className='mx-2' href="#">Services</Nav.Link>
                         <Nav.Link as={Link} to='/Petfun' className='mx-2' href="#">Pet Fun</Nav.Link>
                     </Nav>
                 </Container>

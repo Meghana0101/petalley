@@ -25,10 +25,11 @@ function Shopping() {
                             <h3 className='shop'>Services</h3>
                             <ul>
                                 <h5>Categories</h5>
-                                <li><i class="fa fa-caret-square-o-right"></i><a href='/Petsittersform'> Pet Sitters</a></li>
+                                <li><i class="fa fa-caret-square-o-right"></i><a href='/Petsittersform'>Find a Pet Sitter</a></li>
                                 <li><i class="fa fa-caret-square-o-right"></i><a href='/Petclinic'> Clinic</a></li>
                                 <li><i class="fa fa-caret-square-o-right"></i><a href='/Petpharma'> Pharmacy</a></li>
                                 <li><i class="fa fa-caret-square-o-right"></i> Grooming</li>
+                                <li><i class="fa fa-caret-square-o-right"></i>Be a Pet Sitter</li>
                             </ul>
 
                             <br />
