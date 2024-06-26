@@ -128,7 +128,7 @@ function Home() {
 
 
     <div>
-        <h2>Cute Pets </h2>
+        <h2> </h2>
     </div>
 
     <Container>
