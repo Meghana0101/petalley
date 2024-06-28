@@ -28,7 +28,7 @@ function Header() {
                             navbarScroll
                         >
                             <Nav.Link as={Link} to='/Login' className='ms-5' href="#action1">Login</Nav.Link>
-                            <Nav.Link as={Link} to='/Signup' className='ms-6' href="#action3">Register</Nav.Link>
+                            <Nav.Link as={Link} to='/Signup' className='ms-6' href="#action3">Signup</Nav.Link>
                             <Nav.Link as={Link} to='/Aboutus' className='Aboutus' href="#action4">About Us</Nav.Link>
 
                         </Nav>

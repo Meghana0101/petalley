@@ -3,12 +3,7 @@ import '../Style/Aboutus.css';
 
 const Home = () => {
   return (
-    <div className="total-formss">
-      <div className="card-form">
-        <div className="sub-form">
-          <h1 className="form-nm">About Us</h1>
-          <div className="card-body">
-            <div className="title">
+    <div className='aboutus'> 
               <section>
                 <h2 className="section-title">Our Mission</h2>
                 <p className="section-content">At Petalley, we strive to create a welcoming environment for all pet lovers. Our mission is to provide the best resources, products, and community support for pet owners and their furry friends.</p>
@@ -31,10 +26,6 @@ const Home = () => {
                 <p className="section-content">Become a part of our pet-loving community today. Share your experiences, get advice, and connect with other pet owners who share your passion for pets.</p>
               </section>
             </div>
-          </div>
-        </div>
-      </div>
-    </div>
   );
 };
 
