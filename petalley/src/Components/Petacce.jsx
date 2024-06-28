@@ -85,10 +85,6 @@ function Shopping() {
                                 </Card>
                             </Col>
                         </Row>
-
-
-
-
                         <Row>
                             <Col>
                                 <Card style={{ width: '15rem' }} className='shop-card'>

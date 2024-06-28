@@ -22,14 +22,14 @@ function Shopping() {
                 <Row>
                     <Col className='sider'>
                         <div >
-                            <h3 className='shop'>Services</h3>
+                            <h3 className='shop'>Be a Sitter</h3>
                             <ul>
                                 <h5>Categories</h5>
-                                <li><i class="fa fa-caret-square-o-right"></i><a href='/Petsittersform'> Pet Sitters</a></li>
-                                <li><i class="fa fa-caret-square-o-right"></i> Clinic</li>
+                                <li><i class="fa fa-caret-square-o-right"></i><a href='/Petsittersform'>Find a Pet Sitters</a></li>
+                                <li><i class="fa fa-caret-square-o-right"></i><a href='/Clinic'> Clinic</a></li>
                                 <li><i class="fa fa-caret-square-o-right"></i><a href='/Petpharma'> Pharmacy</a></li>
                                 <li><i class="fa fa-caret-square-o-right"></i><a href='/Services'> Grooming </a></li>
-                                <li><i class="fa fa-caret-square-o-right"></i><a href='/Beasitter'> Be a Sitter </a></li>
+                                <li><i class="fa fa-caret-square-o-right"></i> Be a Sitter</li>
                             </ul>
 
                             <br />
@@ -49,12 +49,10 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="" src={Toy1} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>Paw Space</Card.Title>
+                                        <Card.Title className='card-price'>Pet to Sit</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i> <a href='https://pawspace.in/'>Welcome To PawSpace Doorstep Pet Care Services.
-                                        Now in Hyderabad 
-                                        at your service....</a>
+                                        <i class="ri-map-pin-2-line"></i>  28/4,4th Phase Rd, near Rto Office, LIG , Housing board colony, kukatpally, Hyderabad,Telangana 500072
                                             
                                         </Card.Text>
 
@@ -69,10 +67,10 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="top" src={Toy2} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>Animal Care</Card.Title>
+                                        <Card.Title className='card-price'>Pet to Sit</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i> <a href='https://animalcareclinic.co.in/'>Quality without compromise. Treatment and care without constraints on limits. </a>
+                                        <i class="ri-map-pin-2-line"></i>  28/4,4th Phase Rd, near Rto Office, LIG , Housing board colony, kukatpally, Hyderabad,Telangana 500072
 
                                         </Card.Text>
                                         {/* <Button variant="" className='shop-btn'>Buy Now</Button> */}
@@ -87,10 +85,10 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="top" src={Toy3} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>Doggo 360</Card.Title>
+                                        <Card.Title className='card-price'>Pet to Sit</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i>  <a href='https://www.doctor360.in/'>Experience hassle-free healthcare with our  platform designed to make your health journey simpler.</a>
+                                        <i class="ri-map-pin-2-line"></i>  28/4,4th Phase Rd, near Rto Office, LIG , Housing board colony, kukatpally, Hyderabad,Telangana 500072
 
                                         </Card.Text>
 
@@ -111,11 +109,11 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="top" src={Toy4} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'> Pet Clinic</Card.Title>
+                                        <Card.Title className='card-price'>Pet to Sit</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i> <a href='https://www.sevenoakspet.in/'>Multi-Speciality
-Pet Hospital! Global Veterinary Excellence Now In Hyderabad!</a>
+                                        <i class="ri-map-pin-2-line"></i>  28/4,4th Phase Rd, near Rto Office, LIG , Housing board colony, kukatpally, Hyderabad,Telangana 500072
+
                                         </Card.Text>
 
                                         {/* <Button variant="" className='shop-btn'>Buy Now</Button> */}
@@ -129,10 +127,10 @@ Pet Hospital! Global Veterinary Excellence Now In Hyderabad!</a>
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="top" src={Toy5} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>Vetic</Card.Title>
+                                        <Card.Title className='card-price'>Pet to Sit</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i>  <a href='https://vetic.in/'>Pet Healthcare with Compassion & Innovation Looking for the best veterinary hospital near you? </a>
+                                        <i class="ri-map-pin-2-line"></i>  28/4,4th Phase Rd, near Rto Office, LIG , Housing board colony, kukatpally, Hyderabad,Telangana 500072
 
                                         </Card.Text>
 
@@ -148,11 +146,10 @@ Pet Hospital! Global Veterinary Excellence Now In Hyderabad!</a>
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="top" src={Toy6} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>PetFam</Card.Title>
+                                        <Card.Title className='card-price'>Pet to Sit</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i>  <a href='https://www.sevenoakspet.in/'>Global Veterinary Center of Excellence
-                                        We are a haven where your pet's well-being comes first. </a>
+                                        <i class="ri-map-pin-2-line"></i>  28/4,4th Phase Rd, near Rto Office, LIG , Housing board colony, kukatpally, Hyderabad,Telangana 500072
 
                                         </Card.Text>
 

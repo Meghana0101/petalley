@@ -14,11 +14,7 @@ import Toy4 from '../Uploads/fun4.jpg'
 import Toy5 from '../Uploads/fun5.jpg'
 import Toy6 from '../Uploads/fun6.webp'
 
-
-
-
 function Shopping() {
-
 
     return (
         <div>
@@ -52,16 +48,15 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="" src={Toy1} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>Pet Park</Card.Title>
+                                        <Card.Title className='card-price'>HMC Dog</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i> P V N Rao Marg, Beside <br/> Jalavihar Water Park
-                                            <br/> Opens at 6:30 am Mon
+                                        <i class="ri-map-pin-2-line"></i> <a href='https://www.bringfido.com/attraction/16977'>HMC Dog Park is the first exclusive dog park in Hyderabad, India.</a>
                                         </Card.Text>
 
                                         {/* <Button variant="" className='shop-btn'>Buy Now</Button> */}
 
-                                        <p className='shop-tag'><i>"Dogs Parks to bring your dogs,Socialize with other pets and dogs"</i></p>
+                                      
 
                                     </Card.Body>
                                 </Card>
@@ -70,15 +65,15 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="top" src={Toy2} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>Pet park</Card.Title>
+                                        <Card.Title className='card-price'>GMC Park </Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i> P V N Rao Marg, Beside <br/> Jalavihar Water Park
-                                            <br/> Opens at 6:30 am Mon
+                                        <i class="ri-map-pin-2-line"></i> <a href='https://www.tripadvisor.in/Attraction_Review-g297586-d20053961-Reviews-Dog_s_Park-Hyderabad_Hyderabad_District_Telangana.html'>GMC Pet friendly park in Hyderabad 
+                                        opens at 5am on Mon </a>
                                         </Card.Text>
                                         {/* <Button variant="" className='shop-btn'>Buy Now</Button> */}
 
-                                        <p className='shop-tag'><i>"Dogs Parks to bring your dogs,Socialize with other pets and dogs"</i></p>
+                                       
 
                                     </Card.Body>
                                 </Card>
@@ -91,13 +86,12 @@ function Shopping() {
                                         <Card.Title className='card-price'>Dogs Park</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i> P V N Rao Marg, Beside <br/> Jalavihar Water Park
-                                            <br/> Opens at 6:30 am Mon
+                                        <i class="ri-map-pin-2-line"></i> <a href='https://lbb.in/hyderabad/dogs-park-necklace-road-hyderabad/'>A Park For Barks: Have You Checked Out This Dog Park In Necklace Road?</a>
                                         </Card.Text>
 
                                         {/* <Button variant="" className='shop-btn'>Buy Now</Button> */}
 
-                                        <p className='shop-tag'><i>"Dogs Parks to bring your dogs,Socialize with other pets and dogs"</i></p>
+                                       
 
                                     </Card.Body>
                                 </Card>
@@ -109,19 +103,19 @@ function Shopping() {
 
                         <Row>
                             <Col>
+                            <div></div>
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="top" src={Toy4} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>Dogs park</Card.Title>
+                                        <Card.Title className='card-price'>GHMC park</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i> P V N Rao Marg, Beside <br/> Jalavihar Water Park
-                                            <br/> Opens at 6:30 am Mon
+                                        <i class="ri-map-pin-2-line"></i><a href= 'https://www.hyderabadzone.com/attractions/ghmc-dog-park-at-gachibowli-in-hyderabad.html'> GHMC Gachibowli dog park timings are 6:00 AM to 11:00 AM and 4:00 PM to 9:00 PM.</a>
                                         </Card.Text>
 
                                         {/* <Button variant="" className='shop-btn'>Buy Now</Button> */}
 
-                                        <p className='shop-tag'><i>"Dogs Parks to bring your dogs,Socialize with other pets and dogs"</i></p>
+                     
 
                                     </Card.Body>
                                 </Card>
@@ -130,16 +124,15 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="top" src={Toy5} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>pet park</Card.Title>
+                                        <Card.Title className='card-price'>Bone Park</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i> P V N Rao Marg, Beside <br/> Jalavihar Water Park
-                                            <br/> Opens at 6:30 am Mon
+                                        <i class="ri-map-pin-2-line"></i> <a href='https://lbb.in/hyderabad/kondapur-dog-park/'>This Bone-Shaped Park In Kondapur Is Where Your Pup Can Have Endless Wags & Sniffs</a>
                                         </Card.Text>
 
                                         {/* <Button variant="" className='shop-btn'>Buy Now</Button> */}
 
-                                        <p className='shop-tag'><i>"Dogs Parks to bring your dogs,Socialize with other pets and dogs"</i></p>
+                                        
 
                                     </Card.Body>
                                 </Card>
@@ -149,17 +142,15 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="top" src={Toy6} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>pet Park</Card.Title>
+                                        <Card.Title className='card-price'>Petto Park</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i> P V N Rao Marg, Beside <br/> Jalavihar Water Park
-                                            <br/> Opens at 6:30 am Mon
+                                        <i class="ri-map-pin-2-line"></i> <a href='https://www.hyderabadzone.com/attractions/ghmc-dog-park-at-gachibowli-in-hyderabad.html#google_vignette'>The park has a variety of amenities for dogs to enjoy, including tunnels, jumps, pools, fountains, and runs. </a>
                                         </Card.Text>
 
                                         {/* <Button variant="" className='shop-btn'>Buy Now</Button> */}
 
-                                        <p className='shop-tag'><i>"Dogs Parks to bring your dogs,Socialize with other pets and dogs"</i></p>
-
+                                        
                                     </Card.Body>
                                 </Card>
                             </Col>

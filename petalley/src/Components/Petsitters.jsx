@@ -29,6 +29,7 @@ function Shopping() {
                                 <li><i class="fa fa-caret-square-o-right"></i><a href='/Petclinic'> Clinic</a></li>
                                 <li><i class="fa fa-caret-square-o-right"></i><a href='/Petpharma'> Pharmacy</a></li>
                                 <li><i class="fa fa-caret-square-o-right"></i><a href='/Services'> Grooming </a></li>
+                                <li><i class="fa fa-caret-square-o-right"></i><a href='/Beasitter'> Be a Sitter </a></li>
                             </ul>
 
                             <br />
@@ -99,10 +100,6 @@ function Shopping() {
                                 </Card>
                             </Col>
                         </Row>
-
-
-
-
                         <Row>
                             <Col>
                                 <Card style={{ width: '15rem' }} className='shop-card'>
@@ -160,13 +157,7 @@ function Shopping() {
                                 </Card>
                             </Col>
                         </Row>
-
-
-
                     </Col>
-
-
-
                 </Row>
             </Container>
         </div>

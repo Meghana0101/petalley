@@ -48,16 +48,15 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="" src={Toy1} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>Pet Cafe</Card.Title>
+                                        <Card.Title className='card-price'>Woofs to Waffels</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i> P V N Rao Marg, Beside <br/> Jalavihar Water Park
-                                            <br/> Opens at 6:30 am Mon
+                                        <i class="ri-map-pin-2-line"></i> <a href ='https://www.whatshot.in/hyderabad/from-woofs-to-waffles-hyderabads-finest-pet-friendly-cafes-c-43652'>From Woofs to Waffles: Hyderabad's Finest Pet-friendly Cafes</a>
                                         </Card.Text>
 
                                         {/* <Button variant="" className='shop-btn'>Buy Now</Button> */}
 
-                                        <p className='shop-tag'><i>"Dogs Parks to bring your dogs,Socialize with other pets and dogs"</i></p>
+                                        
 
                                     </Card.Body>
                                 </Card>
@@ -66,15 +65,15 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="top" src={Toy2} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>Pet Cafe</Card.Title>
+                                        <Card.Title className='card-price'>Iron Hill</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i> P V N Rao Marg, Beside <br/> Jalavihar Water Park
-                                            <br/> Opens at 6:30 am Mon
+                                        <i class="ri-map-pin-2-line"></i><a href='https://www.siasat.com/6-hand-picked-pet-friendly-cafes-in-hyderabad-2434834/'>From Ironhill to Heart Cup, Hyderabad has a plethora of options if you are looking out for a pet-friendly</a>
+                                        
                                         </Card.Text>
                                         {/* <Button variant="" className='shop-btn'>Buy Now</Button> */}
 
-                                        <p className='shop-tag'><i>"Dogs Parks to bring your dogs,Socialize with other pets and dogs"</i></p>
+                                       
 
                                     </Card.Body>
                                 </Card>
@@ -84,16 +83,15 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="top" src={Toy3} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>Pet Cafe</Card.Title>
+                                        <Card.Title className='card-price'>Petto cafe</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i> P V N Rao Marg, Beside <br/> Jalavihar Water Park
-                                            <br/> Opens at 6:30 am Mon
+                                        <i class="ri-map-pin-2-line"></i><a href='https://lbb.in/hyderabad/pet-friendly-cafes-hyderabad/'>Your Pets Will Have The Best day Out At These Pet-Friendly Cafes In Hyderabad opens at 10 am mon</a>
                                         </Card.Text>
 
                                         {/* <Button variant="" className='shop-btn'>Buy Now</Button> */}
 
-                                        <p className='shop-tag'><i>"Dogs Parks to bring your dogs,Socialize with other pets and dogs"</i></p>
+                                       
 
                                     </Card.Body>
                                 </Card>
@@ -108,16 +106,15 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="top" src={Toy4} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>Pet Cafe</Card.Title>
+                                        <Card.Title className='card-price'>Paw Fea</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i> P V N Rao Marg, Beside <br/> Jalavihar Water Park
-                                            <br/> Opens at 6:30 am Mon
+                                        <i class="ri-map-pin-2-line"></i> <a href='https://www.siasat.com/6-hand-picked-pet-friendly-cafes-in-hyderabad-2434834/'>Who wouldn’t like to have food with a view of a waterfall? </a>
                                         </Card.Text>
 
                                         {/* <Button variant="" className='shop-btn'>Buy Now</Button> */}
 
-                                        <p className='shop-tag'><i>"Dogs Parks to bring your dogs,Socialize with other pets and dogs"</i></p>
+                                       
 
                                     </Card.Body>
                                 </Card>
@@ -126,16 +123,15 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="top" src={Toy5} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>Pet Cafe</Card.Title>
+                                        <Card.Title className='card-price'>Humming Bird</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i> P V N Rao Marg, Beside <br/> Jalavihar Water Park
-                                            <br/> Opens at 6:30 am Mon
+                                        <i class="ri-map-pin-2-line"></i> <a href='https://www.siasat.com/6-hand-picked-pet-friendly-cafes-in-hyderabad-2434834/'>his cafe is very known for its variety of coffee, continental and Italian.</a>
                                         </Card.Text>
 
                                         {/* <Button variant="" className='shop-btn'>Buy Now</Button> */}
 
-                                        <p className='shop-tag'><i>"Dogs Parks to bring your dogs,Socialize with other pets and dogs"</i></p>
+                                       
 
                                     </Card.Body>
                                 </Card>
@@ -145,16 +141,15 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="top" src={Toy6} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>Pet Cafe</Card.Title>
+                                        <Card.Title className='card-price'>E’woke</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i> P V N Rao Marg, Beside <br/> Jalavihar Water Park
-                                            <br/> Opens at 6:30 am Mon
+                                        <i class="ri-map-pin-2-line"></i><a href='https://www.siasat.com/6-hand-picked-pet-friendly-cafes-in-hyderabad-2434834/'>This cafe is 100% vegan and is one of the best places to hangout for the pet parents.</a>
                                         </Card.Text>
 
                                         {/* <Button variant="" className='shop-btn'>Buy Now</Button> */}
 
-                                        <p className='shop-tag'><i>"Dogs Parks to bring your dogs,Socialize with other pets and dogs"</i></p>
+                                       
 
                                     </Card.Body>
                                 </Card>

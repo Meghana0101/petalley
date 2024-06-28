@@ -49,7 +49,10 @@ import Toy6 from '../Uploads/toy6.webp'
 
 function Home() {
   return (
+    
     <div>
+
+         <div className='carasol'>
          <Carousel>
       {/* <Carousel.Item interval={1000}>
 
@@ -73,7 +76,8 @@ function Home() {
       
       </Carousel.Item>
     </Carousel>
-
+         </div>
+    
 
     {/* Cards...  */}
     <div>
@@ -90,10 +94,9 @@ function Home() {
       <Card.Body>
         <Card.Title>Pet Sitters</Card.Title>
         <Card.Text>
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
+        Meet our dedicated petsitters, committed to providing exceptional care tailored to your pet's needs. From dog walking to grooming, our skilled professionals ensure your furry friends receive reliable and loving attention."
         </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+       
       </Card.Body>
     </Card>
         </Col>
@@ -103,10 +106,9 @@ function Home() {
       <Card.Body>
         <Card.Title>Pet Parks</Card.Title>
         <Card.Text>
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
+        "Discover our pet parks designed with your furry friends in mind. Whether they enjoy running, playing, or simply exploring, our parks provide a safe and enjoyable environment for all pets to thrive....."
         </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        
       </Card.Body>
     </Card>
         </Col>
@@ -116,10 +118,9 @@ function Home() {
       <Card.Body>
         <Card.Title>Services</Card.Title>
         <Card.Text>
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
+        "Explore our pet services tailored to meet your needs. From dog walking to grooming, petsitters to shopping ,pharmacy to clinics , our skilled professionals are committed to providing reliable and loving care for your pets......"
         </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        
       </Card.Body>
     </Card>
         </Col>
@@ -128,7 +129,7 @@ function Home() {
 
 
     <div>
-        <h2> </h2>
+        <h2>   More to Know        </h2>
     </div>
 
     <Container>
@@ -152,7 +153,7 @@ function Home() {
     </Container>
 
 <div>
-  <h2>Pet Toys</h2>
+  <h2>  Pet Toys </h2>
 </div>
 
     <div >

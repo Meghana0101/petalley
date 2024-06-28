@@ -24,6 +24,11 @@ h2{
     margin-bottom: 20px;
 }
 .toy-img{
-    border: 35px solid yellow;
+    border: 20px solid rgb(198, 209, 210);
     border-radius: 15px;
+}
+
+.carasol{
+    width:90%;
+    margin-left: 70px;
 }

@@ -29,6 +29,7 @@ function Shopping() {
                                 <li><i class="fa fa-caret-square-o-right"></i><a href='/Petclinic'> Clinic</a></li>
                                 <li><i class="fa fa-caret-square-o-right"></i> Pharmacy</li>
                                 <li><i class="fa fa-caret-square-o-right"></i><a href='/Services'> Grooming </a></li>
+                                <li><i class="fa fa-caret-square-o-right"></i><a href='/Beasitter'> Be a Sitter </a></li>
                             </ul>
 
                             <br />
@@ -48,11 +49,10 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="" src={Toy1} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>Pharmacy</Card.Title>
+                                        <Card.Title className='card-price'>Pet Co</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i>  28/4,4th Phase Rd, near Rto Office, LIG , Housing board colony, kukatpally, Hyderabad,Telangana 500072
-                                            
+                                        <i class="ri-map-pin-2-line"></i> <a href='https://www.1mg.com/categories/personal-care/pet-care-612?brand=Purepet&filter=true'>Pharmacy For Your Pets that You treat as Family.We care for your Pet's Health</a>
                                         </Card.Text>
 
                                         {/* <Button variant="" className='shop-btn'>Buy Now</Button> */}
@@ -66,10 +66,10 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="top" src={Toy2} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>Pharmacy</Card.Title>
+                                        <Card.Title className='card-price'> Super Tails</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i>  28/4,4th Phase Rd, near Rto Office, LIG , Housing board colony, kukatpally, Hyderabad,Telangana 500072
+                                        <i class="ri-map-pin-2-line"></i><a href='https://supertails.com/collections/pet-pharmacy?page=1'>Our Store for your Pet Health Choose us for us PawFriends...</a>
 
                                         </Card.Text>
                                         {/* <Button variant="" className='shop-btn'>Buy Now</Button> */}
@@ -84,10 +84,11 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="top" src={Toy3} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>Pharmacy</Card.Title>
+                                        <Card.Title className='card-price'>Purepet</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i>  28/4,4th Phase Rd, near Rto Office, LIG , Housing board colony, kukatpally, Hyderabad,Telangana 500072
+                                        <i class="ri-map-pin-2-line"></i> <a href='https://www.1mg.com/categories/personal-care/pet-care-612'>The Pharmacy your Pet needs now in Hyderabad 
+                                        at Kukatpally </a>
 
                                         </Card.Text>
 
@@ -108,10 +109,11 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="top" src={Toy4} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>Pharmacy</Card.Title>
+                                        <Card.Title className='card-price'>PetPaws</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i>  28/4,4th Phase Rd, near Rto Office, LIG , Housing board colony, kukatpally, Hyderabad,Telangana 500072
+                                        <i class="ri-map-pin-2-line"></i>  <a href='https://www.1mg.com/categories/personal-care/pet-care-612?brand=Purepet&filter=true'>The Petto Store for your Healthy pets
+                                        that are family to you and your kids</a>
 
                                         </Card.Text>
 
@@ -126,10 +128,11 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="top" src={Toy5} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>Pharmacy</Card.Title>
+                                        <Card.Title className='card-price'>Petopia</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i>  28/4,4th Phase Rd, near Rto Office, LIG , Housing board colony, kukatpally, Hyderabad,Telangana 500072
+                                        <i class="ri-map-pin-2-line"></i>  <a href ='https://www.1mg.com/categories/personal-care/pet-care-612'> Pharmacy for you at your door step 
+                                        just a click a way for your pet's Health. </a>
 
                                         </Card.Text>
 
@@ -145,10 +148,11 @@ function Shopping() {
                                 <Card style={{ width: '15rem' }} className='shop-card'>
                                     <Card.Img variant="top" src={Toy6} id='shop-img' />
                                     <Card.Body>
-                                        <Card.Title className='card-price'>Pharmacy</Card.Title>
+                                        <Card.Title className='card-price'>Pharmaaw</Card.Title>
 
                                         <Card.Text>
-                                        <i class="ri-map-pin-2-line"></i>  28/4,4th Phase Rd, near Rto Office, LIG , Housing board colony, kukatpally, Hyderabad,Telangana 500072
+                                        <i class="ri-map-pin-2-line"></i>  <a href='https://www.1mg.com/categories/personal-care/pet-care-612'>The Pet Pharmacy now at your Doorstep
+                                        Hyderabad Telangana</a>
 
                                         </Card.Text>
 

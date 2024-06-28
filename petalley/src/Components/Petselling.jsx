@@ -36,8 +36,6 @@ const Home = () => {
               <button className='bttn-form' type="submit">Submit</button>
             </div> }
           </form>
-
-        
         {/* <div className='p-passtag'>
         <p className='gg-tag'><i class="ri-google-fill"></i><b className='g-tag'> Login with Google</b></p>
         </div> */}
@@ -47,5 +45,4 @@ const Home = () => {
     </div>
   )
 }
-
 export default Home
