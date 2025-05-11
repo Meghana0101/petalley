@@ -9,10 +9,12 @@ Petalley is your all-in-one lifestyle companion for pet parents. Whether you’r
 
 🧍‍♀️ Pet Sitter Booking
   Browse verified pet sitters and schedule care sessions for your furry friends with ease.
+---
 🛍️ Pet Essentials Marketplace
   Shop from a curated range of pet clothes, accessories, toys, food, and medicines—all in one place.
 Resell your pet goods for a price you wish 
   by using our resell and thrift features pet parents can resell their pet goodies or donate them.
+  ---
 📍 Nearby Pet-Friendly Spots
   Discover and explore pet-friendly cafes, parks, and hangout spots in your area.
 ---
