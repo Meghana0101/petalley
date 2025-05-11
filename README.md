@@ -1,30 +1,24 @@
-Great! Based on your updated description, here's a refined `README.md` for **Petalley** as a **pet parent lifestyle platform** where users can **book sitters, shop for pet essentials, and discover nearby pet-friendly places**:
-
----
 
 # 🐾 Petalley
 
-**Petalley** is your all-in-one lifestyle companion for pet parents. Whether you’re looking to **book trusted pet sitters**, **shop for pet essentials**, or **explore pet-friendly places** around you, Petalley makes pet parenting simple, joyful, and hassle-free.
+Petalley is your all-in-one lifestyle companion for pet parents. Whether you’re looking to **book trusted pet sitters**, **shop for pet essentials**, or **explore pet-friendly places** around you, Petalley makes pet parenting simple, joyful, and hassle-free.
 
 ---
 
-## 🌟 Key Features
+🌟 Key Features
 
-* 🧍‍♀️ **Pet Sitter Booking**
+🧍‍♀️ Pet Sitter Booking
   Browse verified pet sitters and schedule care sessions for your furry friends with ease.
-
-* 🛍️ **Pet Essentials Marketplace**
+🛍️ Pet Essentials Marketplace
   Shop from a curated range of pet clothes, accessories, toys, food, and medicines—all in one place.
-
-* 📍 **Nearby Pet-Friendly Spots**
+Resell your pet goods for a price you wish 
+  by using our resell and thrift features pet parents can resell their pet goodies or donate them.
+📍 Nearby Pet-Friendly Spots
   Discover and explore pet-friendly cafes, parks, and hangout spots in your area.
 ---
-
-## 🛠 Tech Stack
-
-* **Frontend:** React.js, Tailwind CSS
-* **Backend:** Node.js + Express.js 
-* **Database:** MongoDB 
+🛠 Tech Stack
+Frontend: React.js, Tailwind CSS
+ 
 
 ---
 
